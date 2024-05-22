@@ -11,5 +11,5 @@ This project aims to develop an NLP model for tasks like sentiment analysis, tex
 5. **Training and Evaluation**: Train the model and evaluate its performance.
 6. **Results Presentation**: Present the results, including model accuracy and insights.
 
-For more details, refer to the project guidelines. LinkedIn: https://www.linkedin.com/in/marknature-c/
+For more details, refer to the project guidelines. LinkedIn: https://www.linkedin.com/in/marknature-c/ <br>
 More code i used for practice, https://www.kaggle.com/code/marknature/nlp-for-fake-news-classification
