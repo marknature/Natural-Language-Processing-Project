@@ -13,3 +13,7 @@ This project aims to develop an NLP model for tasks like sentiment analysis, tex
 
 For more details, refer to the project guidelines. LinkedIn: https://www.linkedin.com/in/marknature-c/ <br>
 More code i used for practice, https://www.kaggle.com/code/marknature/nlp-for-fake-news-classification
+
+<p align="center">
+  <img src="interncareers_logo.jpeg" alt="logo">
+</p>
